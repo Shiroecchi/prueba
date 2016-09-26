@@ -3,5 +3,7 @@ h3 {
 }
 
 p {
-	color: #0AF320;
+	color: #FFFFFF;
+	border: 2px solid #DBF40C;
+	background-color: #0C3BD5;
 }
