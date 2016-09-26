@@ -7,3 +7,8 @@ p {
 	border: 2px solid #DBF40C;
 	background-color: #0C3BD5;
 }
+
+article {
+	background-color: #000000;
+	color: #FFFFFF;
+}
